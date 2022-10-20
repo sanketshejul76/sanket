@@ -1,9 +1,9 @@
 {
-  "name": "manoj Portfolio",
-  "short_name": "PORTFOLIO",
-  "description": "manoj cha Portfolio. having experience as frontend developer",
+  "name": "sanket portfoloio",
+  "short_name": "s_shejul",
+  "description": "sanket cha Portfolio. having experience as frontend developer",
   "orientation": "portrait",
-  "start_url": "/portfolio",
+  "start_url": "/sanket",
   "background_color": "#F00",
   "theme_color": "#0FF",
   "display": "standalone",
