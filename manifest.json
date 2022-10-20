@@ -1,0 +1,70 @@
+{
+  "name": "manoj Portfolio",
+  "short_name": "PORTFOLIO",
+  "description": "manoj cha Portfolio. having experience as frontend developer",
+  "orientation": "portrait",
+  "start_url": "/portfolio",
+  "background_color": "#F00",
+  "theme_color": "#0FF",
+  "display": "standalone",
+  "shortcuts": [
+    {
+      "name": "learn About Us",
+      "short_name": "About",
+      "description": "lorem ipsum",
+      "url": "./about.html",
+      "icons": [
+        {
+          "src": "./images/sanket shejul-logos__transparent (2)1.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "get in touch with us",
+      "short_name": "contact",
+      "description": "contact lorem ipsum",
+      "url": "./images/sanket shejul-logos__transparent (2)1.png",
+      "icons": [
+        {
+          "src": "./images/sanket shejul-logos__transparent (2)1.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "icons": [
+    {
+      "src": "./images/sanket shejul-logos__transparent (2)1.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "./images/sanket shejul-logos__transparent (2)1.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "./images/sanket shejul-logos__transparent (2)1.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "./images/sanket shejul-logos__transparent (2)1.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "./images/sanket shejul-logos__transparent (2)1.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./images/sanket shejul-logos__transparent (2)1.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
